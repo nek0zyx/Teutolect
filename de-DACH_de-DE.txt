@@ -1,0 +1,191 @@
+﻿###name, Name of your translator...:
+Teutolect: de-CH/de-AT → Bundesdeutch
+
+
+###subtitle, Subtitle (optional):
+
+
+
+###language1, Language1 name...:
+Hochdeutsch (CH/AT)
+
+
+###language2, Language2 name...:
+Bundesdeutsch (Teutonisch)
+
+
+###description, Description...:
+Transformiere nicht-deutsche Wörter auf Teutonismen
+
+
+###email, Admin email (optional)...:
+[omitted]
+
+
+###phrases1, Hochdeutsch (CH/AT) list...:
+
+
+
+###phrases2, Bundesdeutsch (Teutonisch) list...:
+
+
+
+###words1, Hochdeutsch (CH/AT) list...:
+Abendessen
+Nachtmahl
+Nachtessen
+Palatschinke
+Omelette
+Knödel
+Grapefruit
+Weisskohl
+Kraut
+Kabis
+Weisskabis
+Orange
+Vorhang
+Bodenwachs
+Bodenwichse
+Primarschule
+Volksschule
+Gehweg
+Gehsteig
+Trottoir
+Vorrang
+Vortritt
+Schulausflug
+Schulreise
+Exkursion
+Ganztägiger
+Müllkübel
+Mistkübel
+Abfallkübel
+Kehrichteimer
+Kübel
+Kuttereimer
+
+
+###words2, Bundesdeutsch (Teutonisch) list...:
+Abendbrot
+Abendbrot
+Abendbrot
+Eierkuchen
+Eierkuchen
+Kloß
+Pampelmuse
+Weißkohl
+Weißkohl
+Weißkohl
+Weißkohl
+Apfelsine
+Gardine
+Bohnerwachs
+Bohnerwachs
+Grundschule
+Grundschule
+Bürgersteig
+Bürgersteig
+Bürgersteig
+Vorfahrt
+Vorfahrt
+Klassenfahrt
+Klassenfahrt
+Klassenfahrt
+Klassenfahrt
+Mülleimer
+Mülleimer
+Mülleimer
+Mülleimer
+Mülleimer
+Mülleimer
+
+
+###intraword1, Hochdeutsch (CH/AT) list...:
+
+
+
+###intraword2, Bundesdeutsch (Teutonisch) list...:
+
+
+
+###prefixes1, Hochdeutsch (CH/AT) list...:
+
+
+
+###prefixes2, Bundesdeutsch (Teutonisch) list...:
+
+
+
+###suffixes1, Hochdeutsch (CH/AT) list...:
+
+
+
+###suffixes2, Bundesdeutsch (Teutonisch) list...:
+
+
+
+###regex1, Hochdeutsch (CH/AT) list...:
+
+
+
+###regex2, Bundesdeutsch (Teutonisch) list...:
+
+
+
+###rev_regex1, Bundesdeutsch (Teutonisch) list...:
+
+
+
+###rev_regex2, Hochdeutsch (CH/AT) list...:
+
+
+
+###ordering1, Hochdeutsch (CH/AT) list...:
+
+
+
+###ordering2, Bundesdeutsch (Teutonisch) list...:
+
+
+
+###defaulttext, One random default text string per line...:
+
+
+
+###disable-reverse, :
+on
+
+
+###custom-script, Define your functions here...:
+
+
+
+###title-extra, e.g. '(and reverse translation)':
+
+
+
+###background-image-source, http://example.com/my_image.png:
+https://i.imgur.com/ZuffL1a.png
+
+
+###title-font-name, Name of custom font...:
+Inter
+
+
+###title-font-size, Size of title (default=5.5)...:
+
+
+
+###language1-font, Language1 font...:
+Inter
+
+
+###language2-font, Language2 font...:
+Inter
+
+
+###language1-font-size, Language1 font size (default=24)...:
+
+
+
+###language2-font-size, Language2 font size (default=24)...:
